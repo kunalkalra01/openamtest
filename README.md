@@ -1,0 +1,2 @@
+# openamtest
+testing with azure
